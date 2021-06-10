@@ -21,7 +21,7 @@ flutter:
     pluginClass: TestLibPlugin
 
 # we don't want to publish the test lib plugin, used only privately for integration testing
-publish_to: none
+publish_to: 'none'
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
